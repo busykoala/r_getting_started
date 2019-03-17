@@ -9,3 +9,5 @@ In a R console init project with:
 ```
 packrat::init("~/RProjects/TheProject")
 ```
+
+For further reading about packrat [check this out](https://rstudio.github.io/packrat/walkthrough.html)
